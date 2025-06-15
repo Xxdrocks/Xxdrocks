@@ -7,9 +7,14 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating Website since 2022<br>
-📚 I'm currently learning Next.js<br>
-🎯 Goals: 1 day, 1 project
+  ✨ Passionate Web Developer since 2023<br>
+  💻 Specialized in Frontend & Fullstack Development<br>
+  📚 Currently learning Next.js, React, and Tailwind CSS<br>
+  🎯 Goal: 1 day, 1 meaningful project<br>
+  🧠 Strong problem-solving & UI/UX mindset<br>
+  🌱 Always learning, adapting, and growing<br>
+  🤝 Open to internship, collaboration, and mentorship<br>
+  🚀 Ready to contribute and build impactful solutions
 </p>
 
 ---
