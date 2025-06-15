@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Website since 2020<br>📚 I'm currently learning Next Js<br>🎯 Goals: 1 day , 1 project<br></p>
+<p align="left">✨ Creating Website since 2022<br>📚 I'm currently learning Next Js<br>🎯 Goals: 1 day , 1 project<br></p>
 
 ###
 
